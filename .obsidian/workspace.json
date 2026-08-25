@@ -36,119 +36,147 @@
             }
           },
           {
-            "id": "d65692607e07d297",
+            "id": "dd2e4f26673960e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/7 - whats a net cat.md",
+                "file": "11 - Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - whats a net cat"
+              "title": "11 - Based"
             }
           },
           {
-            "id": "4fbe2f14f4145840",
+            "id": "97326ba547f002b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/8 - plumbing.md",
+                "file": "12 - strings it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - plumbing"
+              "title": "12 - strings it"
             }
           },
           {
-            "id": "a96230c680ff89c6",
+            "id": "837ef471e7b3b0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/9- Glitch Cat.md",
+                "file": "13 - Wave a flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9- Glitch Cat"
+              "title": "13 - Wave a flag"
             }
           },
           {
-            "id": "f3bb3d02063e271b",
+            "id": "476e1f582d938525",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10- Nice netcat....md",
+                "file": "14 - Static ain't always noise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- Nice netcat..."
+              "title": "14 - Static ain't always noise"
             }
           },
           {
-            "id": "c1d48fcb095a6d0f",
+            "id": "dfc8d9ccbf6b0e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/2 - 2Warm.md",
+                "file": "15 - Useless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - 2Warm"
+              "title": "15 - Useless"
             }
           },
           {
-            "id": "f7da6d585bfb1dc2",
+            "id": "b73cb9cd3955f8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/4 - Bases.md",
+                "file": "16 - Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Bases"
+              "title": "16 - Tab, Tab, Attack"
             }
           },
           {
-            "id": "32919c02be0d087e",
+            "id": "949c1f3bc6aa87cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/3 - Warmed up.md",
+                "file": "General skills/17 - Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Warmed up"
+              "title": "17 - Magikarp Ground Mission"
             }
           },
           {
-            "id": "538d71931d1ae048",
+            "id": "efee1f0a2acc1e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General skills/1 - Lets Warm Up.md",
+                "file": "General skills/18 - repetitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Lets Warm Up"
+              "title": "18 - repetitions"
+            }
+          },
+          {
+            "id": "eedb5e2ea5c8583e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General skills/19 - Big zip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19 - Big zip"
+            }
+          },
+          {
+            "id": "823f567043df27af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General skills/20 - First Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20 - First Find"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -315,9 +343,20 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "538d71931d1ae048",
+  "active": "6aed1591de3a8983",
   "lastOpenFiles": [
+    "General skills/19 - Big zip.md",
+    "General skills/18 - repetitions.md",
+    "General skills/17 - Magikarp Ground Mission.md",
+    "General skills/16 - Tab, Tab, Attack.md",
+    "General skills/15 - Useless.md",
+    "General skills/12 - strings it.md",
+    "General skills/14 - Static ain't always noise.md",
+    "General skills/20 - First Find.md",
+    "General skills/13 - Wave a flag.md",
+    "General skills/11 - Based.md",
     "Plantilla.md",
+    "General skills/1 - Lets Warm Up.md",
     "General skills/10- Nice netcat....md",
     "General skills/9 - Glitch Cat.md",
     "General skills/8 - plumbing.md",
@@ -327,7 +366,6 @@
     "General skills/4 - Bases.md",
     "General skills/3 - Warmed up.md",
     "General skills/2 - 2Warm.md",
-    "General skills/1 - Lets Warm Up.md",
     "Pasted image 20260819120659.png",
     "README.md",
     "Bienvenido.md",
