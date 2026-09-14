@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF Web/49 - Scavenger Hunt.md",
+                "file": "picoCTF Web/52 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49 - Scavenger Hunt"
+              "title": "52 - JaWT Scratchpad"
             }
           }
         ]
@@ -191,11 +191,14 @@
   "active": "4a18e7b2906ab78f",
   "lastOpenFiles": [
     "picoCTF Web/48 - Cookies.md",
+    "picoCTF Web/52 - JaWT Scratchpad.md",
+    "picoCTF Web/51 - More SQLi.md",
+    "Plantilla.md",
+    "picoCTF Web/50 - Irish-Name-Repo 1.md",
+    "picoCTF Web/49 - Scavenger Hunt.md",
     "picoCTF Web/43 - logon.md",
     "picoCTF Web/44 - dont-use-client-side.md",
     "picoCTF Web/45 - picobrowser.md",
-    "picoCTF Web/49 - Scavenger Hunt.md",
-    "Plantilla.md",
     "picoCTF Web/47 - GET aHEAD.md",
     "picoCTF Web/46 - Client-side-again.md",
     "Sin título.md",
@@ -215,11 +218,8 @@
     "General skills/32 - Chrono.md",
     "General skills/31 - Permissions.md",
     "General skills/1 - Lets Warm Up.md",
-    "2026-08-26.md",
-    "General skills/10- Nice netcat....md",
     "Sin título 1.base",
     "Sin título.canvas",
-    "General skills/30 - Serpentine.md",
     "Pasted image 20260819120659.png",
     "General skills"
   ]
