@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF Web/56 - Most Cookies.md",
+                "file": "Web Exploitation/57 - Includes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56 - Most Cookies"
+              "title": "57 - Includes"
+            }
+          },
+          {
+            "id": "98dbf32de3afcdc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Exploitation/58 - Inspect HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "58 - Inspect HTML"
+            }
+          },
+          {
+            "id": "b9281a76f5cf1ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Exploitation/59 - IntroToBurp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "59 - IntroToBurp"
+            }
+          },
+          {
+            "id": "bada23e68bad711e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Exploitation/66 - WebDecode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "66 - WebDecode"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,36 +231,36 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4a18e7b2906ab78f",
+  "active": "bada23e68bad711e",
   "lastOpenFiles": [
-    "picoCTF Web/55 - Trickster.md",
-    "picoCTF Web/54 - SOAP.md",
-    "picoCTF Web/56 - Most Cookies.md",
-    "Plantilla.md",
-    "picoCTF Web/53 - MatchTheRegex.md",
-    "picoCTF Web/52 - JaWT Scratchpad.md",
-    "picoCTF Web/48 - Cookies.md",
-    "picoCTF Web/51 - More SQLi.md",
-    "picoCTF Web/50 - Irish-Name-Repo 1.md",
-    "picoCTF Web/49 - Scavenger Hunt.md",
-    "picoCTF Web/43 - logon.md",
-    "picoCTF Web/44 - dont-use-client-side.md",
-    "picoCTF Web/45 - picobrowser.md",
-    "picoCTF Web/47 - GET aHEAD.md",
-    "picoCTF Web/46 - Client-side-again.md",
-    "Sin título.md",
-    "picoCTF Web",
-    "picoCTF Web/42 - where are the robots.md",
-    "picoCTF Web/41 - Insp3ct0r.md",
+    "Web Exploitation/65 - Unminify.md",
+    "Web Exploitation/64 - SQLiLite.md",
+    "Web Exploitation/63 - Secrets.md",
+    "Web Exploitation/62 - Roboto Sans.md",
+    "Web Exploitation/61 - Power Cookie.md",
+    "Web Exploitation/60 - Local Authority.md",
+    "Web Exploitation/59 - IntroToBurp.md",
+    "Web Exploitation/58 - Inspect HTML.md",
+    "Web Exploitation/57 - Includes.md",
+    "Web Exploitation/43 - logon.md",
+    "Web Exploitation/46 - Client-side-again.md",
+    "Web Exploitation/44 - dont-use-client-side.md",
+    "Web Exploitation/56 - Most Cookies.md",
     "README.md",
-    "General skills/40 - ASCII Numbers.md",
+    "Web Exploitation/66 - WebDecode.md",
+    "Plantilla.md",
+    "Web Exploitation/41 - Insp3ct0r.md",
+    "Web Exploitation/55 - Trickster.md",
+    "Web Exploitation/54 - SOAP.md",
+    "Web Exploitation/53 - MatchTheRegex.md",
+    "Web Exploitation/52 - JaWT Scratchpad.md",
+    "Web Exploitation/48 - Cookies.md",
+    "Web Exploitation/51 - More SQLi.md",
+    "Web Exploitation/50 - Irish-Name-Repo 1.md",
+    "Web Exploitation/49 - Scavenger Hunt.md",
+    "Web Exploitation/45 - picobrowser.md",
+    "Web Exploitation",
     "Sin título.base",
-    "General skills/39 - binhexa.md",
-    "General skills/38 - binary search.md",
-    "General skills/37 - collaborative development.md",
-    "General skills/36 - blame game.md",
-    "General skills/35 - time machine.md",
-    "General skills/34 - committee issue.md",
     "Sin título 1.base",
     "Sin título.canvas",
     "Pasted image 20260819120659.png",
