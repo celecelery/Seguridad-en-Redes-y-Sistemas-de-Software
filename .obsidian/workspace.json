@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic/87 - Operation Orchid.md",
+                "file": "Crypto/103 - Waves over lambda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "87 - Operation Orchid"
+              "title": "103 - Waves over lambda"
             }
           }
         ]
@@ -190,13 +190,22 @@
   },
   "active": "86a3728c995cbfe8",
   "lastOpenFiles": [
+    "Crypto/102 - Tapping.md",
+    "Crypto/101 - la cifra de.md",
+    "Crypto/104 - Interencdec.md",
+    "Crypto/103 - Waves over lambda.md",
+    "Crypto/99 - caesar.md",
+    "Crypto/100 - Easy1.md",
+    "Crypto/98 - 13.md",
+    "Crypto/97 - The Numbers.md",
+    "Plantilla.md",
+    "Forensic/87 - Operation Orchid.md",
+    "Crypto",
     "Forensic/86 - Operation Oni.md",
     "Forensic/85 - Sleuthkit Apprentice.md",
     "Forensic/84 - Sleuthkit Intro.md",
     "Forensic/83 - Disk, disk, sleuth.md",
     "Forensic/82 - Milkslap.md",
-    "Forensic/87 - Operation Orchid.md",
-    "Plantilla.md",
     "Forensic/81 - MicroHard WeakEdge.md",
     "Forensic/80 - tunn3l v1s10n.md",
     "Forensic/79 - Matryoshka doll.md",
@@ -208,14 +217,6 @@
     "Examen - Primer Parcial/Web/7 - SQL Direct.md",
     "Examen - Primer Parcial/Web/5 - Java Code Analysis.md",
     "Examen - Primer Parcial/Web/4 - head-dump.md",
-    "Examen - Primer Parcial/Web/6 - n0s4n1ty 1.md",
-    "Examen - Primer Parcial/Web/3 - find me.md",
-    "Examen - Primer Parcial/Web/2 - Cookie Monster Secret Recipe.md",
-    "Examen - Primer Parcial/Web/1 - Bookmarklet.md",
-    "Web Exploitation/57 - Includes.md",
-    "Examen - Primer Parcial/General Skills/10 - SansAlpha.md",
-    "Examen - Primer Parcial/General Skills/9 - Rust fixme 3.md",
-    "Examen - Primer Parcial/General Skills/8 - Rest fixme 2.md",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
     "Examen - Primer Parcial",
