@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/103 - Waves over lambda.md",
+                "file": "Crypto/104 - Interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "103 - Waves over lambda"
+              "title": "104 - Interencdec"
+            }
+          },
+          {
+            "id": "042cafdb0b751d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crypto/105 - rsa pop quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "105 - rsa pop quiz"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,17 +203,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "86a3728c995cbfe8",
+  "active": "042cafdb0b751d30",
   "lastOpenFiles": [
-    "Crypto/102 - Tapping.md",
-    "Crypto/101 - la cifra de.md",
+    "Plantilla.md",
+    "README.md",
+    "Crypto/105 - rsa pop quiz.md",
     "Crypto/104 - Interencdec.md",
     "Crypto/103 - Waves over lambda.md",
+    "Crypto/102 - Tapping.md",
+    "Crypto/101 - la cifra de.md",
     "Crypto/99 - caesar.md",
     "Crypto/100 - Easy1.md",
     "Crypto/98 - 13.md",
     "Crypto/97 - The Numbers.md",
-    "Plantilla.md",
     "Forensic/87 - Operation Orchid.md",
     "Crypto",
     "Forensic/86 - Operation Oni.md",
@@ -215,8 +232,6 @@
     "Examen - Primer Parcial/Web/9 - SSTI2.md",
     "Examen - Primer Parcial/Web/8 - SSTI1.md",
     "Examen - Primer Parcial/Web/7 - SQL Direct.md",
-    "Examen - Primer Parcial/Web/5 - Java Code Analysis.md",
-    "Examen - Primer Parcial/Web/4 - head-dump.md",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
     "Examen - Primer Parcial",
