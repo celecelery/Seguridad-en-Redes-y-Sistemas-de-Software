@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2343c771aa4c64",
+        "id": "ef06e9a8ce27cdfc",
         "type": "tabs",
         "children": [
           {
-            "id": "86a3728c995cbfe8",
+            "id": "21075bf3a8ec8f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/104 - Interencdec.md",
+                "file": "Crypto/109 - b00tlgRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "104 - Interencdec"
-            }
-          },
-          {
-            "id": "042cafdb0b751d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/96 - Ph4nt0m 1ntrud3r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "96 - Ph4nt0m 1ntrud3r"
+              "title": "109 - b00tlgRSA3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +188,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "042cafdb0b751d30",
+  "active": "21075bf3a8ec8f0d",
   "lastOpenFiles": [
-    "Forensic/95 - RED.md",
+    "Crypto/108 - b00tl3gRSA2.md",
+    "Crypto/107 - Mind your Ps an Qs.md",
+    "Crypto/106 - Mini RSA.md",
+    "Crypto/105 - rsa pop quiz.md",
+    "Crypto/109 - b00tlgRSA3.md",
+    "Plantilla.md",
+    "106 -.md",
     "Forensic/96 - Ph4nt0m 1ntrud3r.md",
+    "Forensic/95 - RED.md",
     "Forensic/94 - Secret of the Polyglot.md",
     "Forensic/93 - CanYouSee.md",
     "Forensic/92 - Scan Surprise.md",
@@ -214,10 +206,8 @@
     "Forensic/90 - Redaction gone wrong.md",
     "Forensic/89 - St3g0.md",
     "Forensic/88- information.md",
-    "Plantilla.md",
     "Crypto/97 - The Numbers.md",
     "Crypto/98 - 13.md",
-    "Crypto/105 - rsa pop quiz.md",
     "README.md",
     "Crypto/104 - Interencdec.md",
     "Crypto/103 - Waves over lambda.md",
@@ -227,11 +217,6 @@
     "Crypto/100 - Easy1.md",
     "Forensic/87 - Operation Orchid.md",
     "Crypto",
-    "Forensic/86 - Operation Oni.md",
-    "Forensic/85 - Sleuthkit Apprentice.md",
-    "Forensic/84 - Sleuthkit Intro.md",
-    "Forensic/83 - Disk, disk, sleuth.md",
-    "Forensic/82 - Milkslap.md",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
     "Examen - Primer Parcial",
