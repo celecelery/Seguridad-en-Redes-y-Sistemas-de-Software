@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/109 - b00tlgRSA3.md",
+                "file": "Crypto/114 - Flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "109 - b00tlgRSA3"
+              "title": "114 - Flags"
             }
           }
         ]
@@ -190,12 +190,17 @@
   },
   "active": "21075bf3a8ec8f0d",
   "lastOpenFiles": [
+    "Crypto/113 - ReadMyCert.md",
+    "Crypto/114 - Flags.md",
+    "Crypto/112 - HideToSee.md",
+    "Crypto/111- basic-mod1.md",
+    "Crypto/110- Pixelated.md",
+    "Plantilla.md",
+    "Crypto/109 - b00tlgRSA3.md",
     "Crypto/108 - b00tl3gRSA2.md",
     "Crypto/107 - Mind your Ps an Qs.md",
     "Crypto/106 - Mini RSA.md",
     "Crypto/105 - rsa pop quiz.md",
-    "Crypto/109 - b00tlgRSA3.md",
-    "Plantilla.md",
     "106 -.md",
     "Forensic/96 - Ph4nt0m 1ntrud3r.md",
     "Forensic/95 - RED.md",
@@ -211,11 +216,6 @@
     "README.md",
     "Crypto/104 - Interencdec.md",
     "Crypto/103 - Waves over lambda.md",
-    "Crypto/102 - Tapping.md",
-    "Crypto/101 - la cifra de.md",
-    "Crypto/99 - caesar.md",
-    "Crypto/100 - Easy1.md",
-    "Forensic/87 - Operation Orchid.md",
     "Crypto",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
