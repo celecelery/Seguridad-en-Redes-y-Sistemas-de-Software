@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crypto/124 - Vigenere.md",
+                "file": "Reversing/129 - vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "124 - Vigenere"
+              "title": "129 - vault-door-5"
             }
           }
         ]
@@ -190,10 +190,16 @@
   },
   "active": "21075bf3a8ec8f0d",
   "lastOpenFiles": [
+    "Reversing/128 - vault-door-4.md",
+    "Reversing/129 - vault-door-5.md",
+    "Reversing/127 - vault-door-3.md",
+    "Plantilla.md",
+    "Reversing/126 - vault-door-1.md",
+    "Reversing/125 - Vault-door-training.md",
+    "Crypto/124 - Vigenere.md",
+    "Reversing",
     "Crypto/123 - substitution2.md",
     "Crypto/122 - substitution1.md",
-    "Crypto/124 - Vigenere.md",
-    "Plantilla.md",
     "Crypto/121 - substitution0.md",
     "Crypto/120 - rail-fence.md",
     "Crypto/119 - morse-code.md",
@@ -211,11 +217,6 @@
     "Crypto/108 - b00tl3gRSA2.md",
     "Crypto/107 - Mind your Ps an Qs.md",
     "Crypto/106 - Mini RSA.md",
-    "Crypto/105 - rsa pop quiz.md",
-    "Forensic/96 - Ph4nt0m 1ntrud3r.md",
-    "Forensic/95 - RED.md",
-    "Forensic/94 - Secret of the Polyglot.md",
-    "Forensic/93 - CanYouSee.md",
     "Crypto",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
