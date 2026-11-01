@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21075bf3a8ec8f0d",
+            "id": "caf3121c29fd3496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing/129 - vault-door-5.md",
+                "file": "Examen 2 - Segundo Parcial/Forensic/9 - Timeline 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "129 - vault-door-5"
+              "title": "9 - Timeline 1"
+            }
+          },
+          {
+            "id": "19ded6ed5206954e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Examen 2 - Segundo Parcial/Forensic/10 - DISKO 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 - DISKO 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8d4cd5beb51ae6a5",
@@ -188,45 +203,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "21075bf3a8ec8f0d",
+  "active": "19ded6ed5206954e",
   "lastOpenFiles": [
-    "Reversing/128 - vault-door-4.md",
-    "Reversing/129 - vault-door-5.md",
-    "Reversing/127 - vault-door-3.md",
+    "Examen 2 - Segundo Parcial/Forensic/9 - Timeline 1.md",
+    "Examen 2 - Segundo Parcial/Forensic/8 - Timeline 0.md",
+    "Examen 2 - Segundo Parcial/Forensic/3 - Riddle Registry.md",
+    "Examen 2 - Segundo Parcial/Forensic/4 - Hidden in plainsight.md",
+    "Examen 2 - Segundo Parcial/Forensic/7 - Binary Digits.md",
+    "Examen 2 - Segundo Parcial/Forensic/6 - Corrupted file.md",
+    "Examen 2 - Segundo Parcial/Forensic/5 - Flag in Flame.md",
+    "Examen 2 - Segundo Parcial/Forensic/10 - DISKO 4.md",
+    "Examen 2 - Segundo Parcial/Forensic/2 - Enhance.md",
+    "Examen 2 - Segundo Parcial/Forensic/1 - Lookey here.md",
+    "Examen 2 - Segundo Parcial/Crypto/Sin título.md",
+    "Examen 2 - Segundo Parcial/Crypto/10 - rsa_oracle.md",
+    "Examen 2 - Segundo Parcial/Crypto/9 - Related Messages.md",
+    "Examen 2 - Segundo Parcial/Crypto/8 - Small Trouble.md",
+    "Examen 2 - Segundo Parcial/Crypto/7 - Timestamped Secrets.md",
+    "Examen 2 - Segundo Parcial/Crypto/6 -Custom encryption.md",
+    "Examen 2 - Segundo Parcial/Crypto/5 - transposition-trial.md",
+    "Examen 2 - Segundo Parcial/Crypto/4 - Shared Secrets.md",
+    "Examen 2 - Segundo Parcial/Crypto/3 - StegoRSA.md",
+    "Examen 2 - Segundo Parcial/Crypto/2 - rotation.md",
+    "Examen 2 - Segundo Parcial/Crypto/1 - basic mod 2.md",
     "Plantilla.md",
-    "Reversing/126 - vault-door-1.md",
-    "Reversing/125 - Vault-door-training.md",
-    "Crypto/124 - Vigenere.md",
-    "Reversing",
-    "Crypto/123 - substitution2.md",
-    "Crypto/122 - substitution1.md",
-    "Crypto/121 - substitution0.md",
-    "Crypto/120 - rail-fence.md",
-    "Crypto/119 - morse-code.md",
-    "Crypto/118 - hashcrack.md",
-    "Crypto/117 - EVEN RSA CAN BE BROKEN.md",
-    "Crypto/116 - credstuff.md",
-    "Crypto/115 - Crack the Power.md",
-    "Crypto/114 - Flags.md",
-    "106 -.md",
-    "Crypto/113 - ReadMyCert.md",
-    "Crypto/112 - HideToSee.md",
     "Crypto/111- basic-mod1.md",
-    "Crypto/110- Pixelated.md",
-    "Crypto/109 - b00tlgRSA3.md",
-    "Crypto/108 - b00tl3gRSA2.md",
-    "Crypto/107 - Mind your Ps an Qs.md",
-    "Crypto/106 - Mini RSA.md",
+    "Crypto/112 - HideToSee.md",
+    "Crypto/115 - Crack the Power.md",
+    "Crypto/116 - credstuff.md",
+    "Examen 2 - Segundo Parcial/Forensic",
+    "Examen 2 - Segundo Parcial/Crypto",
+    "Examen 2 - Segundo Parcial",
+    "Reversing",
     "Crypto",
     "Examen - Primer Parcial/Web",
     "Examen - Primer Parcial/General Skills",
     "Examen - Primer Parcial",
     "Forensic",
     "Web Exploitation",
-    "Sin título.base",
-    "Sin título 1.base",
     "Sin título.canvas",
-    "Pasted image 20260819120659.png",
-    "General skills"
+    "Pasted image 20260819120659.png"
   ]
 }
