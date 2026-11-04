@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examen 2 - Segundo Parcial/Forensic/10 - DISKO 4.md",
+                "file": "Reversing/132 - Picker I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - DISKO 4"
+              "title": "132 - Picker I"
             }
           }
         ],
@@ -205,6 +205,14 @@
   },
   "active": "19ded6ed5206954e",
   "lastOpenFiles": [
+    "Reversing/134 - Picker III.md",
+    "Reversing/135 - Picker IV.md",
+    "Reversing/133 - Picker II.md",
+    "Reversing/132 - Picker I.md",
+    "Reversing/131 - timer.md",
+    "Reversing/130 - Safe Opener 2.md",
+    "Plantilla.md",
+    "Examen 2 - Segundo Parcial/Forensic/10 - DISKO 4.md",
     "Examen 2 - Segundo Parcial/Forensic/9 - Timeline 1.md",
     "Examen 2 - Segundo Parcial/Forensic/8 - Timeline 0.md",
     "Examen 2 - Segundo Parcial/Forensic/3 - Riddle Registry.md",
@@ -212,7 +220,6 @@
     "Examen 2 - Segundo Parcial/Forensic/7 - Binary Digits.md",
     "Examen 2 - Segundo Parcial/Forensic/6 - Corrupted file.md",
     "Examen 2 - Segundo Parcial/Forensic/5 - Flag in Flame.md",
-    "Examen 2 - Segundo Parcial/Forensic/10 - DISKO 4.md",
     "Examen 2 - Segundo Parcial/Forensic/2 - Enhance.md",
     "Examen 2 - Segundo Parcial/Forensic/1 - Lookey here.md",
     "Examen 2 - Segundo Parcial/Crypto/Sin título.md",
@@ -224,13 +231,6 @@
     "Examen 2 - Segundo Parcial/Crypto/5 - transposition-trial.md",
     "Examen 2 - Segundo Parcial/Crypto/4 - Shared Secrets.md",
     "Examen 2 - Segundo Parcial/Crypto/3 - StegoRSA.md",
-    "Examen 2 - Segundo Parcial/Crypto/2 - rotation.md",
-    "Examen 2 - Segundo Parcial/Crypto/1 - basic mod 2.md",
-    "Plantilla.md",
-    "Crypto/111- basic-mod1.md",
-    "Crypto/112 - HideToSee.md",
-    "Crypto/115 - Crack the Power.md",
-    "Crypto/116 - credstuff.md",
     "Examen 2 - Segundo Parcial/Forensic",
     "Examen 2 - Segundo Parcial/Crypto",
     "Examen 2 - Segundo Parcial",
